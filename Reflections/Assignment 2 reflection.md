@@ -1,0 +1,1 @@
+Completing this assignment helped me understand the role of UTMDigital and its impact on technology. The visit provided hands-on insights into digital services, infrastructure, and ICT innovations. Creating the video improved my teamwork, storytelling, and presentation skills. Overall, it was a valuable learning experience that deepened my appreciation for technology in industry.
