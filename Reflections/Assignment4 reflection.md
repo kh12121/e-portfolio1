@@ -1,0 +1,1 @@
+This newsletter assignment allowed me to summarize and reflect on key technologies and insights from the industrial visit/talk. It helped me understand how innovation is shaping industries and its impact on human life. Designing the newsletter improved my presentation and communication skills. Overall, it was a great way to apply creativity while reinforcing what I learned.
