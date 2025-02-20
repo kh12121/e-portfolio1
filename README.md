@@ -12,11 +12,9 @@ I'm an undergraduate student at Universiti Teknologi Malaysia (UTM). This portfo
 
 Project Documentation – Reports, designs, and findings from my research & coursework
 
-Code & Simulations – Implementations in Mentor Graphics, LTSpice, and Verilog
+Code & Simulations – Implementations in Mentor Graphics, LTSpice, and Verilog which will be in the future updates, so, stay tuned!
 
-Learning Resources – Notes and references on key engineering topics
-
-Reflections
+And last but not least, Reflections
 
 ## Connect With Me  
 
