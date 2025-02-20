@@ -1,7 +1,7 @@
 # My Portfolio  
 ## About Me  
 
-Welcome to my E-Portfolio! This repository serves as a showcase of my academic projects, technical skills, and hands-on experience in Electrical Engineering (Mechatronics).
+Welcome to my E-Portfolio! This repository serves as a showcase of my academic projects, technical skills, and hands-on experience in computer science.
 
 ## Introduction  
 
@@ -12,7 +12,7 @@ I'm an undergraduate student at Universiti Teknologi Malaysia (UTM). This portfo
 
 Project Documentation – Reports, designs, and findings from my research & coursework
 
-Code & Simulations – Implementations in Mentor Graphics, LTSpice, and Verilog which will be in the future updates, so, stay tuned!
+Graphics & Multimedia Projects – Showcasing implementations in computer graphics, animation, game development, and UI/UX design, with more updates coming soon—stay tuned!
 
 And last but not least, Reflections
 
