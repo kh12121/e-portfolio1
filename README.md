@@ -12,7 +12,7 @@ I'm an undergraduate student at Universiti Teknologi Malaysia (UTM). This portfo
 
 Project Documentation – Reports, designs, and findings from my research & coursework
 
-Graphics & Multimedia Projects – Showcasing implementations in computer graphics, animation, game development, and UI/UX design, with more updates coming soon—stay tuned!
+Graphics & Multimedia Projects – Showcasing implementations in computer graphics, animation, game development, and UI/UX design, with more updates coming soon, so, stay tuned!
 
 And last but not least, Reflections
 
